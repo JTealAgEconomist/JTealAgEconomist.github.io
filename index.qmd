@@ -1,12 +1,20 @@
 ---
-title: "JTealAgEconomist"
+title: "Jim Teal"
+image: media/MOA.jpg
+toc: false
+about:
+  template: solana
+  image-width: 20em
+  image-shape: rounded
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jim-w-teal/
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=b9rDABYAAAAJ&hl=en
+    - text: Email
+      href: mailto:jteal@wisc.edu
+  
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-5 + 5
-```
+I'm a PhD candidate at the University of Wisconsin–Madison in the Agricultural and Applied Economics Department. I hold a master’s degree in agricultural and resource economics from the University of California–Davis and a bachelor’s degree in economics from the University of Tennessee. Previously I have worked at the Federal Reserve Board of Governors and interned at the Economic Research Service of the U.S. Department of Agriculture. In 2023, I was selected as a Farm Foundation Agricultural Scholar. My research focuses on diversification, agricultural finance, and risk management, which has led to multiple publications in top agricultural research journals.
