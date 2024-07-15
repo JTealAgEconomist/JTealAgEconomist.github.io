@@ -1,0 +1,26 @@
+---
+toc: false
+about:
+  template: marquee
+---
+
+
+# Publications
+
+------
+
+**Teal, J.** & A. W. Stevens (2023).
+[Race and premium misrating in the U.S. Federal Crop Insurance Program](https://onlinelibrary.wiley.com/doi/full/10.1002/aepp.13397).
+*Applied Economic Perspectives and Policy*.
+
+Stevens, A. W. & **J. Teal** (2023). 
+[Diversification and resilience of firms in the agrifood supply chain](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12398).
+*American Journal of Agricultural Economics*.
+
+# Working Papers
+
+----
+
+Stevens, A.W. & **Teal, J.**, "Predicting Firm Diversificatin in Agri-Food Value Chains." *Under Review*
+
+**Teal, J.**, "Crop Diversification and Farm Resilience: An Entropy-Based Evaluation of Agricultural Lending Performance"

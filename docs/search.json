@@ -1,9 +1,44 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Assistant",
+    "section": "",
+    "text": "AAE/Econ 421: Economic Decision Analysis\n\nFall 2023, 2024\n\n\n\n\nARE 100B: Intermediate Microeconomics\n\nWinter 2019"
+  },
+  {
+    "objectID": "teaching.html#university-of-wisconsin---madison",
+    "href": "teaching.html#university-of-wisconsin---madison",
+    "title": "Teaching Assistant",
+    "section": "",
+    "text": "AAE/Econ 421: Economic Decision Analysis\n\nFall 2023, 2024"
+  },
+  {
+    "objectID": "teaching.html#university-of-california---davis",
+    "href": "teaching.html#university-of-california---davis",
+    "title": "Teaching Assistant",
+    "section": "",
+    "text": "ARE 100B: Intermediate Microeconomics\n\nWinter 2019"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jim Teal",
     "section": "",
     "text": "I’m a PhD candidate at the University of Wisconsin–Madison in the Agricultural and Applied Economics Department. I hold a master’s degree in agricultural and resource economics from the University of California–Davis and a bachelor’s degree in economics from the University of Tennessee. Previously I have worked at the Federal Reserve Board of Governors and interned at the Economic Research Service of the U.S. Department of Agriculture. In 2023, I was selected as a Farm Foundation Agricultural Scholar. My research focuses on diversification, agricultural finance, and risk management, which has led to multiple publications in top agricultural research journals."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Jim Teal",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n\nTeal, J. & A. W. Stevens (2023). Race and premium misrating in the U.S. Federal Crop Insurance Program. Applied Economic Perspectives and Policy.\nStevens, A. W. & J. Teal (2023). Diversification and resilience of firms in the agrifood supply chain. American Journal of Agricultural Economics.\n\n\nWorking Papers\n\nStevens, A.W. & Teal, J., “Predicting Firm Diversificatin in Agri-Food Value Chains.” Under Review\nTeal, J., “Crop Diversification and Farm Resilience: An Entropy-Based Evaluation of Agricultural Lending Performance”"
   }
 ]

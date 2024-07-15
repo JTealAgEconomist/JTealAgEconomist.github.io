@@ -1,0 +1,21 @@
+---
+toc: false
+about:
+  template: marquee
+---
+
+
+
+# Teaching Assistant
+
+-------
+
+## University of Wisconsin - Madison
+AAE/Econ 421: Economic Decision Analysis
+
+* Fall 2023, 2024
+
+## University of California - Davis
+ARE 100B: Intermediate Microeconomics
+
+* Winter 2019

@@ -1,0 +1,369 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=15mm
+      - left=15mm
+      - right=15mm
+      - bottom=15mm
+      - heightrounded
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+---
+<!-- fontfamily: libertinus -->
+<!-- TITLE -->
+\begin{huge}\begin{center}{\bf Jim Teal}\end{center}\end{huge}
+
+<!-- CONTACT INFO -->
+\begin{center}JTeal@wisc.edu
+\end{center}
+\vspace{15pt}
+
+<!-- EDUCATION -->
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Doctor of Philosophy}\end{flushleft}
+    \begin{flushright}Expected 2026\end{flushright}
+  \end{multicols}
+  \vspace{-0.25cm}
+  Agricultural and Applied Economics\\
+  University of Wisconsin--Madison
+  \vspace{0.15cm}
+\end{large}
+
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Master of Science}\end{flushleft}
+    \begin{flushright}2019\end{flushright}
+  \end{multicols}
+  \vspace{-0.25cm}
+  Agricultural and Resource Economics\\
+  University of California--Davis
+  \vspace{0.15cm}
+\end{large}
+
+
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Bachelor of Arts}\end{flushleft}
+    \begin{flushright}2015\end{flushright}
+  \end{multicols}
+  \vspace{-0.25cm}
+  Economics\\
+  University of Tennessee--Knoxville
+  \vspace{0.15cm}
+\end{large}
+
+<!-- Employment -->
+\begin{large}{\bf EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+  \begin{multicols}{1}
+    \begin{flushleft}{\bf University of Wisconsin--Madison}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.16cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{\textit{Research Assistant}}\end{flushleft}
+    \begin{flushright}September 2020-Present\end{flushright}
+  \end{multicols}
+  \vspace{-0.2cm}
+  \textit{Supervisor: Dr. Andrew Stevens}
+\end{large}
+\vspace{-0.16cm}
+* Conduct research on food system resiliency and diversification
+* Visualize geospatioal boundaries of farm preservation policies and parcel
+level distances from those boundaries requiring the use of both ArcGIS and R
+* Perform and present preparatory literature review of college student food
+insecurity
+
+\vspace{-0.16cm}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\textit{Teaching Assistant}}\end{flushleft}
+    \begin{flushright}2023-2024\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* AAE 421: Economic Decision Analysis
+* Co-developed and implemented course lab project analyzing data from a
+hypothetical on-farm precision experiment
+* Fall 2023 overall performance rating from student evaluations 4.15/5
+
+\vspace{7pt}
+
+\begin{large}
+  \begin{multicols}{1}
+    \begin{flushleft}{\bf United States Department of Agriculture}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.16cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{\textit{Economic Research Service Pathways Intern}}\end{flushleft}
+    \begin{flushright}Summer 2022\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Cleaned and performed cursory network analysis on poultry label applications
+* Used label applications to determine processing plants' customer base
+* Provided descriptive statistical analysis on how processing plant salmonella levels differ across label claims and customer base
+
+\vspace{7pt}
+
+\begin{large}
+  \begin{multicols}{1}
+    \begin{flushleft}{\bf Conservation Strategy Fund}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.16cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{\textit{Research Associate/Data Analyst}}\end{flushleft}
+    \begin{flushright}November 2019-September 2020\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Contracted to assist in a critical assessment of a cornerstone fisheries policy
+at the California Fish and Game Commission
+* Cleaned, merged, and performed statistical analysis on fishery data
+* Interviewed California Fish and Game fishery specialists
+
+\vspace{7pt}
+
+\begin{large}
+  \begin{multicols}{1}
+    \begin{flushleft}{\bf University of California--Davis}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.16cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{\textit{Graduate Teaching Assistant and Reader}}\end{flushleft}
+    \begin{flushright}January 2019-June 2019\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Taught discussion sections, held office hours, and graded tests and problem
+sets for undergraduate Intermediate Microeconomics
+* Overall effectiveness rating from student evaluations 4.7/5
+
+\vspace{7pt}
+
+\begin{large}
+  \begin{multicols}{1}
+    \begin{flushleft}{\bf Federal Reserve Board of Governors}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.16cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{\textit{Senior Research Assistant}}\end{flushleft}
+    \begin{flushright}July 2017-July 2018\end{flushright}
+  \end{multicols}
+  \vspace{-0.2cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{\textit{Research Assistant}}\end{flushleft}
+    \begin{flushright}January 2016-June 2017\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Founding member of a research group focused on financial forecasting
+* Performed research for the development of monetary policy tools
+* Conducted data and statistical analyses which included collecting, preprocessing, modeling, and bootstrapping for economists aimed at policy decisions and academic publications
+* Wrote, maintained, and documented code for forecasting, monitoring, and visualizing large datasets
+* Prepared and presented briefings to domestic and international policy makers
+
+\vspace{7pt}
+
+\begin{large}
+  \begin{multicols}{1}
+    \begin{flushleft}{\bf University of Tennessee}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.16cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{\textit{Research Assistant}}\end{flushleft}
+    \begin{flushright}May 2015-December 2015\end{flushright}
+  \end{multicols}
+  \vspace{-0.2cm}
+  \textit{Supervisor: Dr. Marianne H. Wanamaker}
+\end{large}
+\vspace{-0.16cm}
+* Collected census data on father-son pairs in 1880 using multiple primary sources
+* Provided assistance for \href{https://www.aeaweb.org/articles?id=10.1257/app.20170656}{African American Intergenerational Economic Mobility since 1880}, by William J. Collins and Marianne H. Wanamaker, \textit{American Economic Journal: Applied Economics}
+
+\vspace{7pt}
+
+<!-- Special Honors and Awards -->
+\begin{large}
+  {\bf Special Honors and Awards}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+\end{large}
+
+\begin{multicols}{2}
+  \begin{flushleft}{Farm Foundation Agricultural Scholar}\end{flushleft}
+  \begin{flushright}2023-2024\end{flushright}
+\end{multicols}
+
+\begin{multicols}{2}
+  \begin{flushleft}{Mueller Fellowship Recipient}\end{flushleft}
+  \begin{flushright}2024\end{flushright}
+\end{multicols}
+
+\vspace{7pt}
+<!-- Published Research -->
+\begin{large}
+  {\bf Publications}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+\end{large}
+
+\textbf{Teal, J.} \& A. W. Stevens (2023).
+\href{https://onlinelibrary.wiley.com/doi/full/10.1002/aepp.13397}{Race and premium misrating in the U.S. Federal Crop Insurance Program}.
+\textit{Applied Economic Perspectives and Policy}.
+
+\vspace{5pt}
+
+Stevens, A. W. \& \textbf{J. Teal} (2023). 
+\href{https://onlinelibrary.wiley.com/doi/10.1111/ajae.12398}{Diversification and resilience of firms in the agrifood supply chain}.
+\textit{American Journal of Agricultural Economics}.
+
+\vspace{7pt}
+
+<!-- Working Papers -->
+\begin{large}
+  {\bf Working Papers}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+\end{large}
+
+Stevens, A. W. \& \textbf{J. Teal}, 
+"Predicting Firm Diversification in Agri-Food Value Chains."
+
+\vspace{5pt}
+
+\textbf{Teal, J.}, 
+"Crop Diversification and Farm Resilience: An Entropy-Based Evaluation of Agricultural Lending Performance."
+
+\vspace{7pt}
+
+<!-- Presentations -->
+\begin{large}
+  {\bf Invited Presentations}
+  \vspace{3pt}
+  \hrule
+\vspace{3pt}
+  2023
+\end{large}
+\vspace{-0.16cm}
+* United States Department of Agriculture Economic Research Services
+
+\begin{large}
+  {\bf Conference Presentations}
+  \vspace{3pt}
+  \hrule
+\vspace{3pt}
+  2022
+\end{large}
+\vspace{-0.16cm}
+* NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (Detroit, Michigan)
+
+\begin{large}
+  2024
+\end{large}
+\vspace{-0.16cm}
+* Agricultural and Applied Economics Association (AAEA) Annual Meeting 
+(New Orleans, Louisiana)
+
+\vspace{7pt}
+
+
+<!-- Service -->
+\begin{large}
+  {\bf Service}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+\end{large}
+
+\begin{multicols}{2}
+  \begin{flushleft}{UW AAE graduate committee representitive}\end{flushleft}
+  \begin{flushright}2024-2025\end{flushright}
+\end{multicols}
+
+\begin{multicols}{2}
+  \begin{flushleft}{Abstract reviewer for AAEA}\end{flushleft}
+  \begin{flushright}2024\end{flushright}
+\end{multicols}
+
+\begin{multicols}{2}
+  \begin{flushleft}{President of the Taylor-Hibbard Club}\end{flushleft}
+  \begin{flushright}September 2021-July 2023\end{flushright}
+\end{multicols}
+\vspace{-0.2cm}
+* UW AAE graduate student organization
+
+\begin{multicols}{2}
+  \begin{flushleft}{Referee for \textit{Applied Economic Perspectives and Policy}}\end{flushleft}
+  \begin{flushright}2022\end{flushright}
+\end{multicols}
+
+\vspace{7pt}
+
+<!-- Professional Affiliations -->
+\begin{large}
+  {\bf Profesional Affiliations}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+\end{large}
+* Agricultural \& Applied Economics Association
+
+\vspace{7pt}
+
+<!-- Skills -->
+\begin{large}
+  {\bf Skills}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+\end{large}
+
+* Proficient in R, LaTeX, Markdown, data visualization, and Linux-based operating systems
+* Experience in MATLAB, SQL, ArcGIS, SAS, and STATA
+* Regular use of the Tidyverse libraries within R including dplyr, purrr, and ggplot2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
