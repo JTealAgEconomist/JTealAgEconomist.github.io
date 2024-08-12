@@ -226,6 +226,12 @@ sets for undergraduate Intermediate Microeconomics
   \vspace{3pt}
 \end{large}
 
+Stevens, A. W. \& \textbf{J. Teal}. 
+Predicting Firm Diversification in Agri-Food Value Chains.
+\textit{Journal of Food Distribution Research}. Forthcoming.
+
+\vspace{5pt}
+
 \textbf{Teal, J.} \& A. W. Stevens (2023).
 \href{https://onlinelibrary.wiley.com/doi/full/10.1002/aepp.13397}{Race and premium misrating in the U.S. Federal Crop Insurance Program}.
 \textit{Applied Economic Perspectives and Policy}.
@@ -245,11 +251,6 @@ Stevens, A. W. \& \textbf{J. Teal} (2023).
   \hrule
   \vspace{3pt}
 \end{large}
-
-Stevens, A. W. \& \textbf{J. Teal}, 
-"Predicting Firm Diversification in Agri-Food Value Chains."
-
-\vspace{5pt}
 
 \textbf{Teal, J.}, 
 "Crop Diversification and Farm Resilience: An Entropy-Based Evaluation of Agricultural Lending Performance."
