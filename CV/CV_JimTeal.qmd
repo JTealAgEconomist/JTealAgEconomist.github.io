@@ -36,11 +36,14 @@ format:
   \vspace{3pt}
   \begin{multicols}{2}
     \begin{flushleft}{\bf Doctor of Philosophy}\end{flushleft}
-    \begin{flushright}Expected 2026\end{flushright}
+    \begin{flushright}Expected 2025\end{flushright}
   \end{multicols}
   \vspace{-0.25cm}
   Agricultural and Applied Economics\\
-  University of Wisconsin--Madison
+  University of Wisconsin--Madison\\
+    Dissertation: \textit{Agricultural Diversification: the What, the Why, 
+  and the How}\\
+  \quad Committee: Paul Mitchell, Guanming Shi, and Andrew Stevens (Chair) 
   \vspace{0.15cm}
 \end{large}
 
@@ -253,7 +256,7 @@ Stevens, A. W. \& \textbf{J. Teal} (2023).
 \end{large}
 
 \textbf{Teal, J.}, 
-"Crop Diversification and Farm Resilience: An Entropy-Based Evaluation of Agricultural Lending Performance."
+"Crop Diversification and Banking Resilience: An Entropy-Based Evaluation of Agricultural Lending Performance."
 
 \vspace{7pt}
 
@@ -262,28 +265,31 @@ Stevens, A. W. \& \textbf{J. Teal} (2023).
   {\bf Invited Presentations}
   \vspace{3pt}
   \hrule
+\end{large} 
 \vspace{3pt}
-  2023
-\end{large}
-\vspace{-0.16cm}
-* United States Department of Agriculture Economic Research Services
+  2024 - 
+American Society of Farm Managers and Rural Appraisers Wisconsin Chapter
+
+\vspace{3pt}
+  2023 - 
+United States Department of Agriculture Economic Research Services
 
 \begin{large}
   {\bf Conference Presentations}
   \vspace{3pt}
   \hrule
+\end{large} 
 \vspace{3pt}
-  2022
-\end{large}
-\vspace{-0.16cm}
-* NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (Detroit, Michigan)
+  2024 - 
+Agricultural and Applied Economics Association (AAEA) Annual Meeting 
+(New Orleans, Louisiana), 
+NC-1177: Agricultural and Rural Finance Markets in
+Transition Annual Meeting (St. Louis, Missouri)
 
-\begin{large}
-  2024
-\end{large}
-\vspace{-0.16cm}
-* Agricultural and Applied Economics Association (AAEA) Annual Meeting 
-(New Orleans, Louisiana)
+\vspace{3pt}
+  2022 - 
+NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (Detroit, Michigan)
+
 
 \vspace{7pt}
 
