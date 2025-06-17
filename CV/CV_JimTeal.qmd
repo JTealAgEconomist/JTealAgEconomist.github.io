@@ -21,289 +21,327 @@ format:
 ---
 <!-- fontfamily: libertinus -->
 <!-- TITLE -->
-\begin{huge}\begin{center}{\bf Jim Teal}\end{center}\end{huge}
+\begin{huge}\begin{center}{\textbf{Jim Teal}}\end{center}\end{huge}
+
+<!-- Department Info -->
+\begin{center} 
+Department of Agricultural \& Applied Economics, University of Wisconsin-Madison\\
+427 Lorch St., 315 Taylor Hall, Madison, WI, USA 53706\\
+\end{center}
 
 <!-- CONTACT INFO -->
-\begin{center}JTeal@wisc.edu
-\end{center}
+\begin{multicols}{3}
+  \begin{flushright}{(931) 581-8563}\end{flushright}
+  \begin{center}{JTeal@wisc.edu}\end{center}
+  \begin{flushleft}{JTealAgEconomist.github.io}\end{flushleft}
+\end{multicols}
 \vspace{15pt}
 
 <!-- EDUCATION -->
 \begin{large}
-  {\bf EDUCATION}
+  {\textbf {EDUCATION}}
   \vspace{3pt}
   \hrule
   \vspace{3pt}
-  \begin{multicols}{2}
-    \begin{flushleft}{\bf Doctor of Philosophy}\end{flushleft}
-    \begin{flushright}Expected 2025\end{flushright}
-  \end{multicols}
-  \vspace{-0.25cm}
-  Agricultural and Applied Economics\\
-  University of Wisconsin--Madison\\
-    Dissertation: \textit{Agricultural Diversification: the What, the Why, 
-  and the How}\\
-  \quad Committee: Paul Mitchell, Guanming Shi, and Andrew Stevens (Chair) 
-  \vspace{0.15cm}
 \end{large}
 
-\begin{large}
+\begin{normalsize}
+  \textbf{University of Wisconsin -- Madison}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf Master of Science}\end{flushleft}
+    \begin{flushleft}Ph.D., Agricultural and Applied Economics\end{flushleft}
+    \begin{flushright}Expected May, 2026\end{flushright}
+  \end{multicols}
+  \vspace{-0.25cm}
+  \hspace*{0.5 cm}Primary Field: Agricultural Economics\\
+  \hspace*{0.5 cm}Dissertation:
+  \textit{Three Essays on Agricultural Diversifivation}\\
+  \hspace*{0.5 cm}Committee: Paul Mitchell, Guanming Shi, and Andrew Stevens (Chair)
+  \vspace{0.15cm}
+\end{normalsize}
+
+\begin{normalsize}
+  \textbf{University of California -- Davis}
+  \begin{multicols}{2}
+    \begin{flushleft}M.Sc., Agricultural and Resource Economics\end{flushleft}
     \begin{flushright}2019\end{flushright}
   \end{multicols}
-  \vspace{-0.25cm}
-  Agricultural and Resource Economics\\
-  University of California--Davis
   \vspace{0.15cm}
-\end{large}
+\end{normalsize}
 
 
-\begin{large}
+\begin{normalsize}
+  \textbf{University of Tennessee -- Knoxville}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf Bachelor of Arts}\end{flushleft}
+    \begin{flushleft}B.A., Economics\end{flushleft}
     \begin{flushright}2015\end{flushright}
   \end{multicols}
-  \vspace{-0.25cm}
-  Economics\\
-  University of Tennessee--Knoxville
   \vspace{0.15cm}
-\end{large}
+\end{normalsize}
 
-<!-- Employment -->
-\begin{large}{\bf EXPERIENCE}
-  \vspace{3pt}
-  \hrule
-  \vspace{3pt}
-  \begin{multicols}{1}
-    \begin{flushleft}{\bf University of Wisconsin--Madison}\end{flushleft}
-  \end{multicols}
-  \vspace{-0.16cm}
-  \begin{multicols}{2}
-    \begin{flushleft}{\textit{Research Assistant}}\end{flushleft}
-    \begin{flushright}September 2020-Present\end{flushright}
-  \end{multicols}
-  \vspace{-0.2cm}
-  \textit{Supervisor: Dr. Andrew Stevens}
-\end{large}
-\vspace{-0.16cm}
-* Conduct research on food system resiliency and diversification
-* Visualize geospatioal boundaries of farm preservation policies and parcel
-level distances from those boundaries requiring the use of both ArcGIS and R
-* Perform and present preparatory literature review of college student food
-insecurity
-
-\vspace{-0.16cm}
-\begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}{\textit{Teaching Assistant}}\end{flushleft}
-    \begin{flushright}2023-2024\end{flushright}
-  \end{multicols}
-\end{large}
-\vspace{-0.16cm}
-* AAE 421: Economic Decision Analysis
-* Co-developed and implemented course lab project analyzing data from a
-hypothetical on-farm precision experiment
-* Fall 2023 overall performance rating from student evaluations 4.15/5
-
-\vspace{7pt}
-
-\begin{large}
-  \begin{multicols}{1}
-    \begin{flushleft}{\bf United States Department of Agriculture}\end{flushleft}
-  \end{multicols}
-  \vspace{-0.16cm}
-  \begin{multicols}{2}
-    \begin{flushleft}{\textit{Economic Research Service Pathways Intern}}\end{flushleft}
-    \begin{flushright}Summer 2022\end{flushright}
-  \end{multicols}
-\end{large}
-\vspace{-0.16cm}
-* Cleaned and performed cursory network analysis on poultry label applications
-* Used label applications to determine processing plants' customer base
-* Provided descriptive statistical analysis on how processing plant salmonella levels differ across label claims and customer base
-
-\vspace{7pt}
-
-\begin{large}
-  \begin{multicols}{1}
-    \begin{flushleft}{\bf Conservation Strategy Fund}\end{flushleft}
-  \end{multicols}
-  \vspace{-0.16cm}
-  \begin{multicols}{2}
-    \begin{flushleft}{\textit{Research Associate/Data Analyst}}\end{flushleft}
-    \begin{flushright}November 2019-September 2020\end{flushright}
-  \end{multicols}
-\end{large}
-\vspace{-0.16cm}
-* Contracted to assist in a critical assessment of a cornerstone fisheries policy
-at the California Fish and Game Commission
-* Cleaned, merged, and performed statistical analysis on fishery data
-* Interviewed California Fish and Game fishery specialists
-
-\vspace{7pt}
-
-\begin{large}
-  \begin{multicols}{1}
-    \begin{flushleft}{\bf University of California--Davis}\end{flushleft}
-  \end{multicols}
-  \vspace{-0.16cm}
-  \begin{multicols}{2}
-    \begin{flushleft}{\textit{Graduate Teaching Assistant and Reader}}\end{flushleft}
-    \begin{flushright}January 2019-June 2019\end{flushright}
-  \end{multicols}
-\end{large}
-\vspace{-0.16cm}
-* Taught discussion sections, held office hours, and graded tests and problem
-sets for undergraduate Intermediate Microeconomics
-* Overall effectiveness rating from student evaluations 4.7/5
-
-\vspace{7pt}
-
-\begin{large}
-  \begin{multicols}{1}
-    \begin{flushleft}{\bf Federal Reserve Board of Governors}\end{flushleft}
-  \end{multicols}
-  \vspace{-0.16cm}
-  \begin{multicols}{2}
-    \begin{flushleft}{\textit{Senior Research Assistant}}\end{flushleft}
-    \begin{flushright}July 2017-July 2018\end{flushright}
-  \end{multicols}
-  \vspace{-0.2cm}
-  \begin{multicols}{2}
-    \begin{flushleft}{\textit{Research Assistant}}\end{flushleft}
-    \begin{flushright}January 2016-June 2017\end{flushright}
-  \end{multicols}
-\end{large}
-\vspace{-0.16cm}
-* Founding member of a research group focused on financial forecasting
-* Performed research for the development of monetary policy tools
-* Conducted data and statistical analyses which included collecting, preprocessing, modeling, and bootstrapping for economists aimed at policy decisions and academic publications
-* Wrote, maintained, and documented code for forecasting, monitoring, and visualizing large datasets
-* Prepared and presented briefings to domestic and international policy makers
-
-\vspace{7pt}
-
-\begin{large}
-  \begin{multicols}{1}
-    \begin{flushleft}{\bf University of Tennessee}\end{flushleft}
-  \end{multicols}
-  \vspace{-0.16cm}
-  \begin{multicols}{2}
-    \begin{flushleft}{\textit{Research Assistant}}\end{flushleft}
-    \begin{flushright}May 2015-December 2015\end{flushright}
-  \end{multicols}
-  \vspace{-0.2cm}
-  \textit{Supervisor: Dr. Marianne H. Wanamaker}
-\end{large}
-\vspace{-0.16cm}
-* Collected census data on father-son pairs in 1880 using multiple primary sources
-* Provided assistance for \href{https://www.aeaweb.org/articles?id=10.1257/app.20170656}{African American Intergenerational Economic Mobility since 1880}, by William J. Collins and Marianne H. Wanamaker, \textit{American Economic Journal: Applied Economics}
-
-\vspace{7pt}
-
-<!-- Special Honors and Awards -->
-\begin{large}
-  {\bf Special Honors and Awards}
-  \vspace{3pt}
-  \hrule
-  \vspace{3pt}
-\end{large}
-
-\begin{multicols}{2}
-  \begin{flushleft}{Farm Foundation Agricultural Scholar}\end{flushleft}
-  \begin{flushright}2023-2024\end{flushright}
-\end{multicols}
-
-\begin{multicols}{2}
-  \begin{flushleft}{Mueller Fellowship Recipient}\end{flushleft}
-  \begin{flushright}2024\end{flushright}
-\end{multicols}
-
-\vspace{7pt}
 <!-- Published Research -->
 \begin{large}
-  {\bf Publications}
+  \textbf {PUBLICATIONS}
   \vspace{3pt}
   \hrule
   \vspace{3pt}
 \end{large}
 
-Stevens, A. W. \& \textbf{J. Teal}. 
-Predicting Firm Diversification in Agri-Food Value Chains.
-\textit{Journal of Food Distribution Research}. Forthcoming.
+Stevens, A. W., \textbf{J. Teal}, C. D. Court, G. DiGiacomo, M. Miller,
+\& H. H. Peterson (2024).
+\href{https://www.fdrsinc.org/wp-content/uploads/2024/12/JFDR55.3_3_Stevens.pdf}{Predicting Firm Diversification in Agri-Food Value Chains}.
+\textit{Journal of Food Distribution Research}, 55(3), 43-64.
 
 \vspace{5pt}
 
-\textbf{Teal, J.} \& A. W. Stevens (2023).
+\textbf{Teal, J.} \& A. W. Stevens (2024).
 \href{https://onlinelibrary.wiley.com/doi/full/10.1002/aepp.13397}{Race and premium misrating in the U.S. Federal Crop Insurance Program}.
-\textit{Applied Economic Perspectives and Policy}.
+\textit{Applied Economic Perspectives and Policy}, 46(1), 169-188.
 
 \vspace{5pt}
 
-Stevens, A. W. \& \textbf{J. Teal} (2023). 
+Stevens, A. W. \& \textbf{J. Teal} (2024). 
 \href{https://onlinelibrary.wiley.com/doi/10.1111/ajae.12398}{Diversification and resilience of firms in the agrifood supply chain}.
-\textit{American Journal of Agricultural Economics}.
+\textit{American Journal of Agricultural Economics}, 106(2), 739-778.
 
 \vspace{7pt}
 
 <!-- Working Papers -->
 \begin{large}
-  {\bf Working Papers}
+  \textbf {WORKING PAPERS}
   \vspace{3pt}
   \hrule
   \vspace{3pt}
 \end{large}
 
 \textbf{Teal, J.}, 
-"Crop Diversification and Banking Resilience: An Entropy-Based Evaluation of Agricultural Lending Performance."
+"Crop Diversification and Banking Resilience: An Entropy-Based Evaluation of 
+Agricultural Lending Performance."[Job Market Paper]
+
+\vspace{7pt}
+
+\textbf{Teal, J.}, 
+"Measurement Differences in Agricultural Diversification."
 
 \vspace{7pt}
 
 <!-- Presentations -->
+
 \begin{large}
-  {\bf Invited Presentations}
+  \textbf {PRESENTATIONS}
   \vspace{3pt}
   \hrule
 \end{large} 
-\vspace{3pt}
-  2024 - 
-American Society of Farm Managers and Rural Appraisers Wisconsin Chapter
 
 \vspace{3pt}
-  2023 - 
-United States Department of Agriculture Economic Research Services
+  2025 - 
+SCC-76: Economics and Management of Risk in Agriculture and Natural
+Resources Annual Meeting (Kansas City, Missouri).
 
-\begin{large}
-  {\bf Conference Presentations}
-  \vspace{3pt}
-  \hrule
-\end{large} 
 \vspace{3pt}
-  2024 - 
+  2024 -
+American Society of Farm Managers and Rural Appraisers Wisconsin Chapter,
 Agricultural and Applied Economics Association (AAEA) Annual Meeting 
 (New Orleans, Louisiana), 
 NC-1177: Agricultural and Rural Finance Markets in
 Transition Annual Meeting (St. Louis, Missouri)
 
 \vspace{3pt}
+  2023 - 
+United States Department of Agriculture Economic Research Services
+
+\vspace{3pt}
   2022 - 
 NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (Detroit, Michigan)
+
+\vspace{7pt}
+
+<!-- Employment -->
+\begin{large}
+  \textbf {RESEARCH \& PROFESSIONAL EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+\end{large}
+
+\begin{normalsize}
+  \begin{flushleft}{\textbf {University of Wisconsin--Madison}}\end{flushleft}
+  \vspace{-0.10cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{\hspace*{0.5cm}\textit{Research Assistant}}\end{flushleft}
+    \begin{flushright}September 2020-Present\end{flushright}
+  \end{multicols}
+  \vspace{-0.25cm}
+  \hspace*{0.5 cm}Supervisor: Dr. Andrew Stevens
+\end{normalsize}
+
+\begin{normalsize}
+  \begin{flushleft}{\textbf {United States Department of Agriculture}}\end{flushleft}
+  \vspace{-0.10cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{\hspace*{0.5cm}\textit{Economic Research Service Pathways Intern}}\end{flushleft}
+    \begin{flushright}Summer 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.25cm}
+  \hspace*{0.5 cm}Supervisor: Dr. Michael Ollinger
+\end{normalsize}
+
+\begin{normalsize}
+  \begin{flushleft}{\textbf {Conservation Strategy Fund}}\end{flushleft}
+  \vspace{-0.10cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{\hspace*{0.5cm}\textit{Research Associate}}\end{flushleft}
+    \begin{flushright}November 2019 - September 2020\end{flushright}
+  \end{multicols}
+\end{normalsize}
+
+\begin{normalsize}
+  \begin{flushleft}{\textbf {Federal Reserve Board of Governors}}\end{flushleft}
+  \vspace{-0.10cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{\hspace*{0.5cm}\textit{Senior Research Assistant}}\end{flushleft}
+    \begin{flushright}July 2017 - July 2018\end{flushright}
+  \end{multicols}
+  \vspace{-0.10cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{\hspace*{0.5cm}\textit{Research Assistant}}\end{flushleft}
+    \begin{flushright}January 2016 - June 2017\end{flushright}
+  \end{multicols}
+  \vspace{-0.25cm}
+  \hspace*{0.5 cm}Supervisor: Dr. Gustavo Suarez \& Dr. Nitish Sinha
+\end{normalsize}
+
+\begin{normalsize}
+  \begin{flushleft}{\textbf {University of Tennessee--Knoxville}}\end{flushleft}
+  \vspace{-0.10cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{\hspace*{0.5cm}\textit{Research Assistant}}\end{flushleft}
+    \begin{flushright}Summer 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.25cm}
+  \hspace*{0.5 cm}Supervisor: Dr. Marianne Wanamaker
+\end{normalsize}
+
+\vspace{7pt}
+
+<!-- Teaching -->
+\begin{large}
+  \textbf {TEACHING EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+\end{large}
+
+
+\begin{normalsize}
+  \textbf{University of Wisconsin--Madison}\\
+  \vspace{-0.10cm}
+  AAE 421: Economic Decision Analysis
+  \begin{multicols}{2}
+    \begin{flushleft}{
+    \hspace*{0.5 cm}\textit{Teaching Assistant}
+    }\end{flushleft}
+    \begin{flushright}{Fall 2023 \& Fall 2024}\end{flushright}
+  \end{multicols}
+\end{normalsize}
+\vspace{-0.25cm}
+* Co-developed, implemented, and improved through iteration a
+  course lab project analyzing data from a hypothetical on-farm precision experiment
+* Overall performance rating from student evaluations 4.15 and 4.45 out of 5
+
+\begin{normalsize}
+  \textbf{University of California--Davis}\\
+  \vspace{-0.10cm}
+  ARE 100B: Intermediate Microeconomics
+  \begin{multicols}{2}
+    \begin{flushleft}{
+    \hspace*{0.5 cm}\textit{Reader}\\
+    \hspace*{0.5 cm}\textit{Teaching Assistant}\\
+    }\end{flushleft}
+    \begin{flushright}{ 
+    Spring 2019\\
+    Winter 2019}\end{flushright}
+  \end{multicols}
+\end{normalsize}
+\vspace{-0.25cm}
+* Overall effectiveness rating from student evaluations 4.7 out of 5
+
+\vspace{7pt}
+
+<!-- Fellowships, Honors and Awards -->
+\begin{large}
+  \textbf {FELLOWSHIPS, HONORS, AND AWARDS}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+\end{large}
+
+\begin{normalsize}
+  \begin{multicols}{2}
+    \begin{flushleft}{Graduate Student Travel Award (\$500)}
+    \end{flushleft}
+    \begin{flushright}2025\end{flushright}
+  \end{multicols}
+    \vspace{-0.25cm}
+    \hspace*{0.5 cm}Applied Risk Analysis AAEA Section
+\end{normalsize}
+
+\begin{normalsize}
+  \begin{multicols}{2}
+    \begin{flushleft}{Graduate Student Travel Award (\$500)}
+    \end{flushleft}
+    \begin{flushright}2025\end{flushright}
+  \end{multicols}
+    \vspace{-0.25cm}
+    \hspace*{0.5 cm}Agricultural Finance \& Management AAEA Section
+\end{normalsize}
+
+\begin{normalsize}
+  \begin{multicols}{2}
+    \begin{flushleft}{Student Research Grants Competition (\$1,500)}
+    \end{flushleft}
+    \begin{flushright}2024\end{flushright}
+  \end{multicols}
+    \vspace{-0.25cm}
+    \hspace*{0.5 cm}University of Wisconsin -- Madison
+\end{normalsize}
+
+\begin{normalsize}
+  \begin{multicols}{2}
+    \begin{flushleft}{Mueller Fellowship Recipient}\end{flushleft}
+    \begin{flushright}2024\end{flushright}
+  \end{multicols}
+\end{normalsize}
+
+\begin{normalsize}
+  \begin{multicols}{2}
+    \begin{flushleft}{Farm Foundation Agricultural Scholar}\end{flushleft}
+    \begin{flushright}2023\end{flushright}
+  \end{multicols}
+\end{normalsize}
 
 
 \vspace{7pt}
 
-
 <!-- Service -->
 \begin{large}
-  {\bf Service}
+  \textbf {SERVICE}
   \vspace{3pt}
   \hrule
   \vspace{3pt}
 \end{large}
 
 \begin{multicols}{2}
+  \begin{flushleft}{Graduate student representative for Ph.D. admissions}\end{flushleft}
+  \begin{flushright}2024-2025\end{flushright}
+\end{multicols}
+
+\begin{multicols}{2}
   \begin{flushleft}{UW AAE graduate committee representitive}\end{flushleft}
+  \begin{flushright}2024-2025\end{flushright}
+\end{multicols}
+
+\begin{multicols}{2}
+  \begin{flushleft}{Graduate student representative for Ph.D. admissions}\end{flushleft}
   \begin{flushright}2024-2025\end{flushright}
 \end{multicols}
 
@@ -312,12 +350,14 @@ NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (De
   \begin{flushright}2024\end{flushright}
 \end{multicols}
 
-\begin{multicols}{2}
-  \begin{flushleft}{President of the Taylor-Hibbard Club}\end{flushleft}
-  \begin{flushright}September 2021-July 2023\end{flushright}
-\end{multicols}
-\vspace{-0.2cm}
-* UW AAE graduate student organization
+\begin{normalsize}
+  \begin{multicols}{2}
+    \begin{flushleft}{President of the Taylor-Hibbard Club}\end{flushleft}
+    \begin{flushright}September 2021-July 2023\end{flushright}
+  \end{multicols}
+  \vspace{-0.2cm}
+  \hspace*{0.5cm}UW AAE graduate student organization
+\end{normalsize}
 
 \begin{multicols}{2}
   \begin{flushleft}{Referee for \textit{Applied Economic Perspectives and Policy}}\end{flushleft}
@@ -328,7 +368,7 @@ NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (De
 
 <!-- Professional Affiliations -->
 \begin{large}
-  {\bf Profesional Affiliations}
+  \textbf {PROFESIONAL AFFILIATIONS}
   \vspace{3pt}
   \hrule
   \vspace{3pt}
@@ -339,7 +379,7 @@ NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (De
 
 <!-- Skills -->
 \begin{large}
-  {\bf Skills}
+  \textbf {SKILLS}
   \vspace{3pt}
   \hrule
   \vspace{3pt}
