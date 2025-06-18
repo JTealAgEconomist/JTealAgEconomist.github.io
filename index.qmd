@@ -1,6 +1,6 @@
 ---
 title: "Jim Teal"
-image: media/MOA.jpg
+image: media/CB1_2597.jpg
 toc: false
 about:
   template: solana

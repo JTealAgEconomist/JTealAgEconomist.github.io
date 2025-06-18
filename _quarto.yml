@@ -6,11 +6,11 @@ website:
   title: "Jim Teal"
   navbar:
     left:
-      - href: index.qmd
+      - href: Index.qmd
         text: Home
-      - href: teaching.qmd
+      - href: Teaching.qmd
         text: Teaching
-      - href: research.qmd
+      - href: Research.qmd
         text: Research
       - href: CV.qmd
         text: CV

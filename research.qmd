@@ -9,18 +9,16 @@ about:
 
 ------
 
-Stevens, A.W. & **J. Teal**. "Predicting Firm Diversification in Agri-Food Value Chains." *Journal of Food Distribution Research*. Forthcoming.
+* Stevens, A.W., **J. Teal**, C. D. Court, G. DiGiacomo, M. Miller & H. H. Peterson (2024). [Predicting Firm Diversification in Agri-Food Value Chains](https://www.fdrsinc.org/wp-content/uploads/2024/12/JFDR55.3_3_Stevens.pdf). *Journal of Food Distribution Research*, 55(3), 43-64.
 
-**Teal, J.** & A. W. Stevens (2023).
-[Race and premium misrating in the U.S. Federal Crop Insurance Program](https://onlinelibrary.wiley.com/doi/full/10.1002/aepp.13397).
-*Applied Economic Perspectives and Policy*.
+* **Teal, J.** & A. W. Stevens (2024). [Race and premium misrating in the U.S. Federal Crop Insurance Program](https://onlinelibrary.wiley.com/doi/full/10.1002/aepp.13397). *Applied Economic Perspectives and Policy*, 46(1), 169-188.
 
-Stevens, A. W. & **J. Teal** (2023). 
-[Diversification and resilience of firms in the agrifood supply chain](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12398).
-*American Journal of Agricultural Economics*.
+* Stevens, A. W. & **J. Teal** (2024). [Diversification and resilience of firms in the agrifood supply chain](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12398). *American Journal of Agricultural Economics*, 106(2), 739-778.
 
 # Working Papers
 
 ----
 
-**Teal, J.**, "Crop Diversification and Farm Resilience: An Entropy-Based Evaluation of Agricultural Lending Performance"
+* **Teal, J.**, "Crop Diversification and Farm Resilience: An Entropy-Based Evaluation of Agricultural Lending Performance" [Job Market Paper]
+
+* **Teal, J.**, "Measurement Differences is Agricultural Diversification"
