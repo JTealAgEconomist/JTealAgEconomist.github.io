@@ -13,6 +13,7 @@ format:
     include-in-header: 
       text: |
         \usepackage{multicol}
+        \usepackage{amsfonts}
         \usepackage{lipsum}
         \usepackage{hyperref}
         \pagestyle{empty}
@@ -21,21 +22,39 @@ format:
 ---
 <!-- fontfamily: libertinus -->
 <!-- TITLE -->
-\begin{huge}\begin{center}{\textbf{Jim Teal}}\end{center}\end{huge}
+\begin{huge}
+  \begin{center}{\textbf{\sc{Jim Teal}}}\end{center}
+\end{huge}
+\vspace{3pt}
+\begin{large}
+  \begin{multicols}{3}
+  \end{multicols}
+\end{large}
+\vspace{3pt}
+\hrule
+\vspace{3pt}
 
-<!-- Department Info -->
-\begin{center} 
-Department of Agricultural \& Applied Economics, University of Wisconsin-Madison\\
-427 Lorch St., 315 Taylor Hall, Madison, WI, USA 53706\\
-\end{center}
-
-<!-- CONTACT INFO -->
-\begin{multicols}{3}
-  \begin{flushright}{(931) 581-8563}\end{flushright}
-  \begin{center}{JTeal@wisc.edu}\end{center}
-  \begin{flushleft}{JTealAgEconomist.github.io}\end{flushleft}
-\end{multicols}
-\vspace{15pt}
+<!-- Department and Contact Info -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+       University of Wisconsin--Madison\\
+       Agricultural \& Applied Economics\\
+       \textit{Ph.D. Candidate}\\
+       ~\\
+       ~\\
+       ~\\
+    \end{flushleft}
+    \begin{flushright}
+       427 Lorch St.\\
+       315 Taylor Hall\\
+       Madison, WI 53706\\
+       (931) 581-8563\\
+       \href{mailto:jteal@wisc.edu}{JTeal@wisc.edu}\\
+       \href{https://JTealAgEconomist.github.io}{JTealAgEconomist.github.io}
+    \end{flushright}
+  \end{multicols}
+\end{large}
 
 <!-- EDUCATION -->
 \begin{large}
@@ -46,10 +65,10 @@ Department of Agricultural \& Applied Economics, University of Wisconsin-Madison
 \end{large}
 
 \begin{normalsize}
-  \textbf{University of Wisconsin -- Madison}
+  \textbf{University of Wisconsin--Madison}
   \begin{multicols}{2}
     \begin{flushleft}Ph.D., Agricultural and Applied Economics\end{flushleft}
-    \begin{flushright}Expected May, 2026\end{flushright}
+    \begin{flushright}Expected May 2026\end{flushright}
   \end{multicols}
   \vspace{-0.25cm}
   \hspace*{0.5 cm}Primary Field: Agricultural Economics\\
@@ -60,7 +79,7 @@ Department of Agricultural \& Applied Economics, University of Wisconsin-Madison
 \end{normalsize}
 
 \begin{normalsize}
-  \textbf{University of California -- Davis}
+  \textbf{University of California--Davis}
   \begin{multicols}{2}
     \begin{flushleft}M.Sc., Agricultural and Resource Economics\end{flushleft}
     \begin{flushright}2019\end{flushright}
@@ -70,7 +89,7 @@ Department of Agricultural \& Applied Economics, University of Wisconsin-Madison
 
 
 \begin{normalsize}
-  \textbf{University of Tennessee -- Knoxville}
+  \textbf{University of Tennessee--Knoxville}
   \begin{multicols}{2}
     \begin{flushleft}B.A., Economics\end{flushleft}
     \begin{flushright}2015\end{flushright}
@@ -86,7 +105,7 @@ Department of Agricultural \& Applied Economics, University of Wisconsin-Madison
   \vspace{3pt}
 \end{large}
 
-Stevens, A. W., \textbf{J. Teal}, C. D. Court, G. DiGiacomo, M. Miller,
+Stevens, A. W., \textbf{J. Teal}, C. D. Court, G. DiGiacomo, M. Miller
 \& H. H. Peterson (2024).
 \href{https://www.fdrsinc.org/wp-content/uploads/2024/12/JFDR55.3_3_Stevens.pdf}{Predicting Firm Diversification in Agri-Food Value Chains}.
 \textit{Journal of Food Distribution Research}, 55(3), 43-64.
@@ -94,13 +113,13 @@ Stevens, A. W., \textbf{J. Teal}, C. D. Court, G. DiGiacomo, M. Miller,
 \vspace{5pt}
 
 \textbf{Teal, J.} \& A. W. Stevens (2024).
-\href{https://onlinelibrary.wiley.com/doi/full/10.1002/aepp.13397}{Race and premium misrating in the U.S. Federal Crop Insurance Program}.
+\href{https://onlinelibrary.wiley.com/doi/full/10.1002/aepp.13397}{Race and Premium Misrating in the U.S. Federal Crop Insurance Program}.
 \textit{Applied Economic Perspectives and Policy}, 46(1), 169-188.
 
 \vspace{5pt}
 
 Stevens, A. W. \& \textbf{J. Teal} (2024). 
-\href{https://onlinelibrary.wiley.com/doi/10.1111/ajae.12398}{Diversification and resilience of firms in the agrifood supply chain}.
+\href{https://onlinelibrary.wiley.com/doi/10.1111/ajae.12398}{Diversification and Resilience of Firms in the Agrifood Supply Chain}.
 \textit{American Journal of Agricultural Economics}, 106(2), 739-778.
 
 \vspace{7pt}
@@ -115,43 +134,12 @@ Stevens, A. W. \& \textbf{J. Teal} (2024).
 
 \textbf{Teal, J.}, 
 "Crop Diversification and Banking Resilience: An Entropy-Based Evaluation of 
-Agricultural Lending Performance."[Job Market Paper]
+Agricultural Lending Performance." [Job Market Paper]
 
 \vspace{7pt}
 
 \textbf{Teal, J.}, 
 "Measurement Differences in Agricultural Diversification."
-
-\vspace{7pt}
-
-<!-- Presentations -->
-
-\begin{large}
-  \textbf {PRESENTATIONS}
-  \vspace{3pt}
-  \hrule
-\end{large} 
-
-\vspace{3pt}
-  2025 - 
-SCC-76: Economics and Management of Risk in Agriculture and Natural
-Resources Annual Meeting (Kansas City, Missouri).
-
-\vspace{3pt}
-  2024 -
-American Society of Farm Managers and Rural Appraisers Wisconsin Chapter,
-Agricultural and Applied Economics Association (AAEA) Annual Meeting 
-(New Orleans, Louisiana), 
-NC-1177: Agricultural and Rural Finance Markets in
-Transition Annual Meeting (St. Louis, Missouri)
-
-\vspace{3pt}
-  2023 - 
-United States Department of Agriculture Economic Research Services
-
-\vspace{3pt}
-  2022 - 
-NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (Detroit, Michigan)
 
 \vspace{7pt}
 
@@ -168,7 +156,7 @@ NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (De
   \vspace{-0.10cm}
   \begin{multicols}{2}
     \begin{flushleft}{\hspace*{0.5cm}\textit{Research Assistant}}\end{flushleft}
-    \begin{flushright}September 2020-Present\end{flushright}
+    \begin{flushright}September 2020--Present\end{flushright}
   \end{multicols}
   \vspace{-0.25cm}
   \hspace*{0.5 cm}Supervisor: Dr. Andrew Stevens
@@ -190,7 +178,7 @@ NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (De
   \vspace{-0.10cm}
   \begin{multicols}{2}
     \begin{flushleft}{\hspace*{0.5cm}\textit{Research Associate}}\end{flushleft}
-    \begin{flushright}November 2019 - September 2020\end{flushright}
+    \begin{flushright}November 2019--September 2020\end{flushright}
   \end{multicols}
 \end{normalsize}
 
@@ -199,12 +187,12 @@ NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (De
   \vspace{-0.10cm}
   \begin{multicols}{2}
     \begin{flushleft}{\hspace*{0.5cm}\textit{Senior Research Assistant}}\end{flushleft}
-    \begin{flushright}July 2017 - July 2018\end{flushright}
+    \begin{flushright}July 2017--July 2018\end{flushright}
   \end{multicols}
   \vspace{-0.10cm}
   \begin{multicols}{2}
     \begin{flushleft}{\hspace*{0.5cm}\textit{Research Assistant}}\end{flushleft}
-    \begin{flushright}January 2016 - June 2017\end{flushright}
+    \begin{flushright}January 2016--June 2017\end{flushright}
   \end{multicols}
   \vspace{-0.25cm}
   \hspace*{0.5 cm}Supervisor: Dr. Gustavo Suarez \& Dr. Nitish Sinha
@@ -267,6 +255,40 @@ NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (De
 
 \vspace{7pt}
 
+<!-- Presentations -->
+
+\begin{large}
+  \textbf {PRESENTATIONS}
+  \vspace{3pt}
+  \hrule
+\end{large} 
+
+\vspace{3pt}
+  2025 - 
+SCC-76: Economics and Management of Risk in Agriculture and Natural
+Resources Annual Meeting (Kansas City, Missouri).
+
+\vspace{3pt}
+  2024 -
+American Society of Farm Managers and Rural Appraisers Wisconsin Chapter 
+(Prairie du Sac, Wisconsin),
+Agricultural and Applied Economics Association (AAEA) Annual Meeting 
+(New Orleans, Louisiana), 
+NC-1177: Agricultural and Rural Finance Markets in
+Transition Annual Meeting (St. Louis, Missouri)
+
+\vspace{3pt}
+  2023 - 
+United States Department of Agriculture Economic Research Services
+(Kansas City, Missouri)
+
+\vspace{3pt}
+  2022 - 
+NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting 
+(Detroit, Michigan)
+
+\vspace{7pt}
+
 <!-- Fellowships, Honors and Awards -->
 \begin{large}
   \textbf {FELLOWSHIPS, HONORS, AND AWARDS}
@@ -302,7 +324,7 @@ NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (De
     \begin{flushright}2024\end{flushright}
   \end{multicols}
     \vspace{-0.25cm}
-    \hspace*{0.5 cm}University of Wisconsin -- Madison
+    \hspace*{0.5 cm}University of Wisconsin--Madison
 \end{normalsize}
 
 \begin{normalsize}
@@ -332,17 +354,12 @@ NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (De
 
 \begin{multicols}{2}
   \begin{flushleft}{Graduate student representative for Ph.D. admissions}\end{flushleft}
-  \begin{flushright}2024-2025\end{flushright}
+  \begin{flushright}2024--2025\end{flushright}
 \end{multicols}
 
 \begin{multicols}{2}
   \begin{flushleft}{UW AAE graduate committee representitive}\end{flushleft}
-  \begin{flushright}2024-2025\end{flushright}
-\end{multicols}
-
-\begin{multicols}{2}
-  \begin{flushleft}{Graduate student representative for Ph.D. admissions}\end{flushleft}
-  \begin{flushright}2024-2025\end{flushright}
+  \begin{flushright}2024--2025\end{flushright}
 \end{multicols}
 
 \begin{multicols}{2}
@@ -353,7 +370,7 @@ NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (De
 \begin{normalsize}
   \begin{multicols}{2}
     \begin{flushleft}{President of the Taylor-Hibbard Club}\end{flushleft}
-    \begin{flushright}September 2021-July 2023\end{flushright}
+    \begin{flushright}September 2021--July 2023\end{flushright}
   \end{multicols}
   \vspace{-0.2cm}
   \hspace*{0.5cm}UW AAE graduate student organization
@@ -368,12 +385,12 @@ NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (De
 
 <!-- Professional Affiliations -->
 \begin{large}
-  \textbf {PROFESIONAL AFFILIATIONS}
+  \textbf {PROFESSIONAL AFFILIATIONS}
   \vspace{3pt}
   \hrule
   \vspace{3pt}
 \end{large}
-* Agricultural \& Applied Economics Association
+Agricultural \& Applied Economics Association
 
 \vspace{7pt}
 
@@ -385,9 +402,11 @@ NC-1177: Agricultural and Rural Finance Markets in Transition Annual Meeting (De
   \vspace{3pt}
 \end{large}
 
-* Proficient in R, LaTeX, Markdown, data visualization, and Linux-based operating systems
-* Experience in MATLAB, SQL, ArcGIS, SAS, and STATA
-* Regular use of the Tidyverse libraries within R including dplyr, purrr, and ggplot2
+Proficient in R, LaTeX, Markdown, data visualization, and Linux-based operating
+systems\newline
+Experience in MATLAB, SQL, ArcGIS, SAS, and STATA\newline
+Regular use of the Tidyverse libraries within R including dplyr, purrr, and
+ggplot2\newline
 
 
 
