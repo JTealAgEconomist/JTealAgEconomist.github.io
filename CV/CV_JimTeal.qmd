@@ -43,11 +43,9 @@ format:
        \textit{Ph.D. Candidate}\\
        ~\\
        ~\\
-       ~\\
     \end{flushleft}
     \begin{flushright}
        427 Lorch St.\\
-       315 Taylor Hall\\
        Madison, WI 53706\\
        (931) 581-8563\\
        \href{mailto:jteal@wisc.edu}{JTeal@wisc.edu}\\
@@ -71,9 +69,10 @@ format:
     \begin{flushright}Expected May 2026\end{flushright}
   \end{multicols}
   \vspace{-0.25cm}
-  \hspace*{0.5 cm}Primary Field: Agricultural Economics\\
+  \hspace*{0.5 cm}Primary Field: Agricultural Economics
+  \hspace*{0.5 cm}Secondary Field: Industrial Organization\\
   \hspace*{0.5 cm}Dissertation:
-  \textit{Three Essays on Agricultural Diversifivation}\\
+  \textit{Three Essays on Agricultural Diversification}\\
   \hspace*{0.5 cm}Committee: Paul Mitchell, Guanming Shi, and Andrew Stevens (Chair)
   \vspace{0.15cm}
 \end{normalsize}
@@ -137,6 +136,14 @@ Stevens, A. W. \& \textbf{J. Teal} (2024).
 Agricultural Lending Performance." [Job Market Paper]
 
 \vspace{7pt}
+
+<!-- Works in Progress -->
+\begin{large}
+  \textbf {WORKS IN PROGRESS}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+\end{large}
 
 \textbf{Teal, J.}, 
 "Measurement Differences in Agricultural Diversification."
