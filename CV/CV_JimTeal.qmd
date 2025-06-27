@@ -415,6 +415,33 @@ Experience in MATLAB, SQL, ArcGIS, SAS, and STATA\newline
 Regular use of the Tidyverse libraries within R including dplyr, purrr, and
 ggplot2\newline
 
+\vspace{7pt}
+
+<!-- References -->
+\begin{large}
+  \textbf {REFERENCES}
+  \vspace{3pt}
+  \hrule
+  \vspace{3pt}
+\end{large}
+
+\begin{multicols}{2}
+  \begin{flushleft}
+  \textbf{Andrew Stevens}\\
+  Assistant Professor\\
+  Agricultural \& Applied Economics\\
+  University of Wisconsin--Madison\\
+  e-mail: \href{mailto:AWStevens@wisc.edu}{AWStevens@wisc.edu}\\
+  phone: (608) 263-3212\\
+  \textbf{Paul Mitchell}\\
+  Professor \& Department Chair\\
+  Agricultural \& Applied Economics\\
+  University of Wisconsin--Madison\\
+  e-mail: \href{mailto:PDMitchell@wisc.edu}{PDMitchell@wisc.edu}\\
+  phone: (608) 265-6514\\
+  \end{flushleft}
+\end{multicols}
+
 
 
 
