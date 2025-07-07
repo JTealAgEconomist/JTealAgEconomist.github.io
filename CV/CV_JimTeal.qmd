@@ -442,7 +442,15 @@ ggplot2\newline
   \end{flushleft}
 \end{multicols}
 
-
+\begin{normalsize}
+  \begin{flushleft}
+  \textbf{Guanming Shi}\\
+  Renk Agribusiness Chair \& Professor\\
+  University of Wisconsin--Madison\\
+  e-mail: \href{mailto:gshi@wisc.edu}{GShi@wisc.edu}\\
+  phone: (608) 262-8966\\
+  \end{flushleft}
+\end{normalsize}
 
 
 
