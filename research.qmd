@@ -19,10 +19,46 @@ about:
 
 ----
 
-* **Teal, J.**, "Crop Diversification and Farm Resilience: An Entropy-Based Evaluation of Agricultural Lending Performance" [Job Market Paper]
+* **Teal, J.**, ["Crop Diversification and Farm Resilience: An Entropy-Based Evaluation of Agricultural Lending Performance"](docs/WorkingPapers/WorkingPaper_DiversityLoanRisk.pdf) [Job Market Paper]
+
+  Does agricultural diversification exposure of lending institutions decrease agricultural loan delinquency rates, and does the type of diversification matter? Using call reports from the Federal Deposit Insurance Corporation and planted acreage reports from the Farm Service Agency, I show that diversification does have an impact on the delinquency rates of agricultural loans. Contrary to the initial hypothesis, diversification increases delinquency rates for agricultural production loans and real estate loans secured by farmland. A one standard deviation increase in diversification exposure would raise production loan delinquencies by over 13% and real estate loan delinquencies by 11%. To determine if the type of diversification matters, I calculate diversification using the Shannon Entropy Index which can be separated into between group and within group diversification. The impact of different types of diversification on delinquency rates is highly context specific. Within group diversification has a larger negative impact than general diversification on real estate loans. For production loans, there is no difference between the different types of diversification. My results suggest that, in some situations, all diversification is not created equally, and some forms of diversification are actually risk increasing instead of risk mitigating.
 
 # Works In Progress
 
 ----
 
 * **Teal, J.**, "Measurement Differences in Agricultural Diversification"
+
+  How do measures of agricultural diversification differ across different data sources of land cover? This research highlights how different data sources are not interchangeable and which data sources are best for certain types of projects. Primary diversification indexes are calculated using the Cropland Data Layer (CDL) and the Farm Service Agency (FSA) Crop Acreage Data, from 2009 to 2018. When selecting on highly productive counties and crops, CDL and FSA diversification are highly similar with a correlation coefficient of 0.82. When comparing county-year pairs across the entire data set, differences become more extreme with a lower correlation coefficient of 0.52. Differences also exhibit a non-random behavior violating classical measurement error. As CDL diversification increases, CDL diversification becomes increasingly more diversified than FSA.
+
+
+* **Teal, J.**, "Downstream Intensification and Local Landscape Diversification:
+How Increased Demand for Agricultural Inputs Changes Local Landscapes"
+
+  How agricultural products are used has an impact on the intensity a crop is grown. The U.S. Renewable Fuel Standard greatly increased corn acreage. Similarly in the coming years, as the demand for biodiesel increases, soybean acreage will need to increase to match that demand. With growing urban pressure on farmlands and the current level of agricultural intensification in the United States, additional soybean acreage is likely to be substituted from other crops to soybeans instead of new farm acres being planted. How does the increased demand for an agricultural input change local landscape diversification? I answer this question using the introduction of soybean crush plants; ethanol refineries; meat, poultry and egg slaughter facilities; and local landcover from the Cropland Data Layer. When soybean crush plants; ethanol refineries; and meat, poultry and egg slaughter facilities enter an area, there is an increased demand for local agricultural inputs to supply these facilities. I take advantage of this variation to determine if local landscape diversification changes, or if these plants choose to open in locations with excess supply of the needed inputs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
