@@ -442,7 +442,7 @@ ggplot2\newline
 \begin{multicols}{3}
   \begin{flushleft}
   \textbf{Andrew Stevens}\\
-  Assistant Professor\\
+  Associate Professor\\
   Agricultural \& Applied Economics\\
   University of Wisconsin--Madison\\
   e-mail: \href{mailto:AWStevens@wisc.edu}{AWStevens@wisc.edu}\\
