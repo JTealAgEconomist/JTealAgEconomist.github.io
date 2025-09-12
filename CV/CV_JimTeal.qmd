@@ -222,7 +222,7 @@ How Increased Demand for Agricultural Inputs Changes Local Landscapes"
   \vspace{-0.10cm}
   \begin{multicols}{2}
     \begin{flushleft}{\hspace*{0.5cm}\textit{Research Assistant}}\end{flushleft}
-    \begin{flushright}Summer 2022\end{flushright}
+    \begin{flushright}Summer 2015\end{flushright}
   \end{multicols}
   \vspace{-0.25cm}
   \hspace*{0.5 cm}Supervisor: Dr. Marianne Wanamaker
